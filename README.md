@@ -1,4 +1,4 @@
-## Next.js Front-End Tailwindcss Template
+## Next.js Front-End Template
 
 First, run the development server:
 
